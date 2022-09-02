@@ -1,0 +1,13 @@
+V1 boards ordered w/ 2oz copper.
+First assembly was a bit tough at 400C the copper planes suck up heat. 
+Next assembly will try preheating PCB with heat gun while soldering.
+
+Changes to make
+-10k resistors on schematic (no values on v1)
+
+Assembly Order
+ - Resistors
+ - LEDs
+ - 2x5 and 2x8 sockets, only 1/2 pins on CV/Gate lines (lower heat sink capacity)
+ - Caps on +/- 12 Rails (lower heat sink capacity)
+ - Finish soldering all pins
